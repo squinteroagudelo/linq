@@ -32,10 +32,10 @@ namespace Linq
                 suma += calificacion;
             }
             // 1
-            Console.WriteLine("La cantidad de notas mayores que 8 es: " + cont);
+            Console.WriteLine("La cantidad de notas mayores que 8 es " + cont);
 
             // 3
-            Console.WriteLine("La suma de todos los términos es: " + suma);
+            Console.WriteLine("La suma de todos los términos es " + suma);
 
             /* Enfoque declarativo
              * FUNCIONAL -- Linq ¿Qué hacer? (Especificación del problema)*/
