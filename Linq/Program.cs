@@ -10,7 +10,7 @@ namespace Linq
         {
             var calificaciones = new List<int> { 10, 10, 5, 7, 7, 10, 8, 9, 10, 9, 9, 8 };
             // 1. Obtener las calificaciones mayores que 8 y mostrar la cantidad
-            // 2. Obtener el cuadrado de cada término
+            // 2. Obtener cuadrado de cada término
 
             /* Enfoque imperativo -- ¿Cómo hacerlo? (paso a paso)
              * ALGORITMO*/
